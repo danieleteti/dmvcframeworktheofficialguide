@@ -9,6 +9,8 @@ The book is available [here](https://leanpub.com/delphimvcframework)
 ## Translations
 
 [Portuguese](https://leanpub.com/delphimvcframework-br) - translation by Diego Farisato
+
 [Spanish](https://leanpub.com/delphimvcframework-es) - translation by Josè Davalos
 
-If you are interested in doing translation in your native language, [let me know](mailto:d.teti@bittime.it).
+
+> If you are interested in doing translation in your native language, [let me know](mailto:d.teti@bittime.it).
